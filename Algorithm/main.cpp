@@ -7,7 +7,8 @@ int main() {
 	cout << "Hello World!" << endl;
 	
 	//test
-	variable();
-
+	// variable();
+	input_output();
+	
 	return 0;
 }

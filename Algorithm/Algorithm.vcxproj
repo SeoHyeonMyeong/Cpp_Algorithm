@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="input_output.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="variable.cpp" />
   </ItemGroup>
