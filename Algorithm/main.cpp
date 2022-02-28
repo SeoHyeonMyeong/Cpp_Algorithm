@@ -7,6 +7,7 @@ int main() {
 	// variable();
 	// input_output();
 	// arithmetic();
-	if_statement();
+	//if_statement();
+	switch_statement();
 	return 0;
 }
