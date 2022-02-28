@@ -6,6 +6,7 @@ int main() {
 	// hellow_world();
 	// variable();
 	// input_output();
-	arithmetic();
+	// arithmetic();
+	if_statement();
 	return 0;
 }
