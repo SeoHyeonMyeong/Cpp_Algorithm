@@ -8,6 +8,7 @@ int main() {
 	// input_output();
 	// arithmetic();
 	//if_statement();
-	switch_statement();
+	// switch_statement();
+	string_function();
 	return 0;
 }

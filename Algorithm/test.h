@@ -5,3 +5,4 @@ void input_output();
 void arithmetic();
 void if_statement();
 void switch_statement();
+void string_function();
