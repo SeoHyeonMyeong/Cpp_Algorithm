@@ -3,12 +3,9 @@
 using namespace std;
 
 int main() {
-	// print Hello Wolrd!
-	cout << "Hello World!" << endl;
-	
-	//test
+	// hellow_world();
 	// variable();
-	input_output();
-	
+	// input_output();
+	arithmetic();
 	return 0;
 }

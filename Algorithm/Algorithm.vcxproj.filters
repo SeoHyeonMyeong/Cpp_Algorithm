@@ -24,6 +24,12 @@
     <ClCompile Include="input_output.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="arithmetic.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_world.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">

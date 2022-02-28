@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="arithmetic.cpp" />
     <ClCompile Include="input_output.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="variable.cpp" />
+    <ClCompile Include="hello_world.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
