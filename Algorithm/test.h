@@ -6,3 +6,4 @@ void arithmetic();
 void if_statement();
 void switch_statement();
 void string_function();
+void math_function();

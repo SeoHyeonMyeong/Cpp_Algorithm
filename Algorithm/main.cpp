@@ -9,6 +9,7 @@ int main() {
 	// arithmetic();
 	//if_statement();
 	// switch_statement();
-	string_function();
+	//string_function();
+	math_function();
 	return 0;
 }

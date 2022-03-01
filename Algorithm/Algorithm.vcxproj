@@ -23,6 +23,7 @@
     <ClCompile Include="if_statement.cpp" />
     <ClCompile Include="input_output.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="math_function.cpp" />
     <ClCompile Include="string_function.cpp" />
     <ClCompile Include="switch_statement.cpp" />
     <ClCompile Include="variable.cpp" />
