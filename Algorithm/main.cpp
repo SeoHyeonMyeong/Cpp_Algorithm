@@ -13,6 +13,7 @@ int main() {
 	// math_function();
 	// logical_operator();
 	// while_loop();
-	for_loop();
+	// for_loop();
+	nested_loop();
 	return 0;
 }
