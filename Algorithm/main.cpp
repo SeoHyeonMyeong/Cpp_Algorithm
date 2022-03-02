@@ -12,6 +12,7 @@ int main() {
 	// string_function();
 	// math_function();
 	// logical_operator();
-	while_loop();
+	// while_loop();
+	for_loop();
 	return 0;
 }

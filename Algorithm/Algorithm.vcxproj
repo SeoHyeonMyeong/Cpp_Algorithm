@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="arithmetic.cpp" />
+    <ClCompile Include="for_loop.cpp" />
     <ClCompile Include="if_statement.cpp" />
     <ClCompile Include="input_output.cpp" />
     <ClCompile Include="logical_operator.cpp" />
