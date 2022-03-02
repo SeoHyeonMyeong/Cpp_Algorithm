@@ -30,6 +30,7 @@
     <ClCompile Include="printf_function.cpp" />
     <ClCompile Include="string_function.cpp" />
     <ClCompile Include="switch_statement.cpp" />
+    <ClCompile Include="user_defined_function.cpp" />
     <ClCompile Include="variable.cpp" />
     <ClCompile Include="hello_world.cpp" />
     <ClCompile Include="while_loop.cpp" />

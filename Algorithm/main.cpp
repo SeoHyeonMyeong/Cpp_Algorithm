@@ -15,6 +15,7 @@ int main() {
 	// while_loop();
 	// for_loop();
 	// nested_loop();
-	printf_function();
+	// printf_function();
+	user_defined_function();
 	return 0;
 }

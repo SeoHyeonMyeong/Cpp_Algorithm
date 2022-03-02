@@ -12,3 +12,4 @@ void while_loop();
 void for_loop();
 void nested_loop();
 void printf_function();
+void user_defined_function();
