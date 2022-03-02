@@ -29,6 +29,7 @@
     <ClCompile Include="switch_statement.cpp" />
     <ClCompile Include="variable.cpp" />
     <ClCompile Include="hello_world.cpp" />
+    <ClCompile Include="while_loop.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />

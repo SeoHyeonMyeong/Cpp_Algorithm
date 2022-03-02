@@ -8,3 +8,4 @@ void switch_statement();
 void string_function();
 void math_function();
 void logical_operator();
+void while_loop();

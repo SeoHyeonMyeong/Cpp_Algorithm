@@ -11,7 +11,7 @@ int main() {
 	// switch_statement();
 	// string_function();
 	// math_function();
-	logical_operator();
-
+	// logical_operator();
+	while_loop();
 	return 0;
 }
