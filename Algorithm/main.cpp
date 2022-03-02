@@ -7,9 +7,11 @@ int main() {
 	// variable();
 	// input_output();
 	// arithmetic();
-	//if_statement();
+	// if_statement();
 	// switch_statement();
-	//string_function();
-	math_function();
+	// string_function();
+	// math_function();
+	logical_operator();
+
 	return 0;
 }
