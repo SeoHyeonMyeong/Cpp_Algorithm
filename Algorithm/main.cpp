@@ -14,6 +14,7 @@ int main() {
 	// logical_operator();
 	// while_loop();
 	// for_loop();
-	nested_loop();
+	// nested_loop();
+	printf_function();
 	return 0;
 }

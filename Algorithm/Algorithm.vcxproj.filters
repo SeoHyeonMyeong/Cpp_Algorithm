@@ -54,6 +54,9 @@
     <ClCompile Include="nested_loop.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="printf_function.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
