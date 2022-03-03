@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="2D_arrays.cpp" />
     <ClCompile Include="arithmetic.cpp" />
     <ClCompile Include="arrays.cpp" />
     <ClCompile Include="for_loop.cpp" />

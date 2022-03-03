@@ -19,7 +19,8 @@ int main() {
 	// user_defined_function();
 	// overloaded_function();
 	// random_number();
-	//pointers();
-	arrays();
+	// pointers();
+	// arrays();
+	arrays_2D();
 	return 0;
 }

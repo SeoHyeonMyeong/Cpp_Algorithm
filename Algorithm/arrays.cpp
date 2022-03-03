@@ -13,5 +13,23 @@ void arrays() {
 		cout << cars[i] << endl;
 	}
 
+	int num;
+
+	cout << "How many people in this room?: ";
+	cin >> num;
+	cin.ignore();
+
+	string* pPeople = new string[num];
+
+	for (int i = 0; i < num; i++) {
+		cout << "Enter the person name: ";
+		getline(cin, pPeople[i]);
+	}
+
+	for (int i = 0; i < num; i++) {
+		cout << pPeople[i] << endl;
+	}
+
+
 	cout << endl;
 }
