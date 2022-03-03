@@ -3,14 +3,14 @@
 using namespace std;
 
 void arithmetic() {
-	
+
 	int num1, num2;
 
 	cout << "1¹ø ¼ýÀÚ ÀÔ·Â: ";
 	cin >> num1;
 	cout << "2¹ø ¼ýÀÚ ÀÔ·Â: ";
 	cin >> num2;
-	
+
 	cout << "¿¬»ê" << endl;
 	cout << "µ¡¼À (+): " << num1 + num2 << endl;
 	cout << "»¬¼À (-): " << num1 - num2 << endl;

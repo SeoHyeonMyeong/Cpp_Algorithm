@@ -16,3 +16,4 @@ void user_defined_function();
 void overloaded_function();
 void random_number();
 void pointers();
+void arrays();

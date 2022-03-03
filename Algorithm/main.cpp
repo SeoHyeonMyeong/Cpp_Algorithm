@@ -19,6 +19,7 @@ int main() {
 	// user_defined_function();
 	// overloaded_function();
 	// random_number();
-	pointers();
+	//pointers();
+	arrays();
 	return 0;
 }
