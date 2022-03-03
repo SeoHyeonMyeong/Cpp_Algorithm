@@ -18,6 +18,7 @@ int main() {
 	// printf_function();
 	// user_defined_function();
 	// overloaded_function();
-	random_number();
+	// random_number();
+	pointers();
 	return 0;
 }
