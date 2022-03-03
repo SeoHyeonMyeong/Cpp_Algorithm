@@ -29,6 +29,7 @@
     <ClCompile Include="nested_loop.cpp" />
     <ClCompile Include="overloaded funtion.cpp" />
     <ClCompile Include="printf_function.cpp" />
+    <ClCompile Include="random_number.cpp" />
     <ClCompile Include="string_function.cpp" />
     <ClCompile Include="switch_statement.cpp" />
     <ClCompile Include="user_defined_function.cpp" />
