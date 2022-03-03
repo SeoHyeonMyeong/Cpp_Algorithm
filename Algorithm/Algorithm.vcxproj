@@ -29,6 +29,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="math_function.cpp" />
     <ClCompile Include="nested_loop.cpp" />
+    <ClCompile Include="object_oriented_programming.cpp" />
     <ClCompile Include="overloaded funtion.cpp" />
     <ClCompile Include="pointers.cpp" />
     <ClCompile Include="printf_function.cpp" />
