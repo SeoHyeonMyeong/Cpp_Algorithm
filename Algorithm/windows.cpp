@@ -1,11 +1,11 @@
 #include <iostream>
+#include <string>
+#include <windows.h>
 #include "sudoku.h"
 using namespace std;
 
-int main() {
+void sudoku_window() {
 
-	sudoku_window();
 
 	cout << endl;
-	return 0;
 }
